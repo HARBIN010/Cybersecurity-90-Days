@@ -1,1 +1,1 @@
-welcome to my repository ,I am documenting my journey about how i am going to learn cybersecurity in 90 days from zero. I am going to share all of my notes,courses,practical labs and portofolio projects.
+welcome to my repository ,I am documenting my journey about how i am going to learn cybersecurity in 90 days with zero practical knowledge.I am going to share all of my notes,courses,practical labs and portofolio projects.
